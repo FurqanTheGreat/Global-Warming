@@ -1,1 +1,65 @@
-# Global-Warming
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Warming and Pakistan</title>
+  <style type= "text/css">
+	body {background-color: black}
+  h1 {color: white}
+  h2 {color: white}
+  p {color: white}
+</style>
+</head>
+<body>
+  <header>
+    <h1>Impact of Global Warming on Pakistan</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#rising-temperatures">Rising Temperatures</a></li>
+      <li><a href="#water-scarcity">Water Scarcity</a></li>
+      <li><a href="#glacial-melting">Glacial Melting</a></li>
+      <li><a href="#extreme-weather">Extreme Weather Events</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="introduction">
+      <h2>Introduction</h2>
+      <p>
+        Global warming refers to the long-term increase in Earth's average surface temperature due to human activities, primarily the burning of fossil fuels that release greenhouse gases into the atmosphere. Pakistan, like many other countries, is experiencing the adverse effects of global warming.
+      </p>
+    </section>
+	<hr>
+    <section id="rising-temperatures">
+      <h2>Rising Temperatures</h2>
+      <p>
+        Pakistan has been observing a gradual increase in temperatures over the past few decades. Rising temperatures lead to heatwaves, which have severe implications for human health, agriculture, and ecosystems. Crop yields decline, water resources deplete, and the risk of diseases such as heatstroke rises.
+      </p>
+    </section>
+	<hr>
+    <section id="water-scarcity">
+      <h2>Water Scarcity</h2>
+      <p>
+        Global warming exacerbates water scarcity issues in Pakistan. The changing climate patterns disrupt the water cycle, resulting in irregular rainfall patterns and reduced water availability. This affects agriculture, as farmers struggle to irrigate their fields, and also impacts access to clean drinking water for the general population.
+      </p>
+    </section>
+	<hr>
+    <section id="glacial-melting">
+      <h2>Glacial Melting</h2>
+      <p>
+        Pakistan is home to glaciers, including those in the Karakoram and Himalayan mountain ranges. However, global warming has accelerated the melting of these glaciers. This not only leads to a loss of freshwater resources but also increases the risk of glacial lake outburst floods (GLOFs), which pose a threat to nearby communities.
+      </p>
+    </section>
+	<hr>
+    <section id="extreme-weather">
+      <h2>Extreme Weather Events</h2>
+      <p>
+        Global warming contributes to the occurrence of more frequent and intense extreme weather events in Pakistan. This includes intense rainfall, floods, and cyclones. These events result in loss of lives, damage to infrastructure, and displacement of communities, further exacerbating the socioeconomic challenges faced by the country.
+      </p>
+    </section>
+  </main>
+</body>
+</html>
