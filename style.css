@@ -13,3 +13,11 @@ color: white;
 p {
 color: white;
 }
+
+a[href*] {
+  color: yellow;
+}
+
+a:hover {
+  color: orange;
+}
